@@ -1,0 +1,16 @@
+.container {
+	margin: 2rem auto;
+	max-width: 960px;
+}
+.filter {
+	display: flex;
+}
+.filter__item {
+	margin: 0 1rem;
+}
+.filter__item--dropdown {
+	min-width: 200px;
+}
+.col {
+	margin: 1rem;
+}
